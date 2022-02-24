@@ -1,0 +1,15 @@
+C:\Users\emred\source\repos\PhoneProje\PhoneProje\bin\Debug\PhoneProje.exe.config
+C:\Users\emred\source\repos\PhoneProje\PhoneProje\bin\Debug\PhoneProje.exe
+C:\Users\emred\source\repos\PhoneProje\PhoneProje\bin\Debug\PhoneProje.pdb
+C:\Users\emred\source\repos\PhoneProje\PhoneProje\bin\Debug\EntityFramework.dll
+C:\Users\emred\source\repos\PhoneProje\PhoneProje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\emred\source\repos\PhoneProje\PhoneProje\bin\Debug\EntityFramework.xml
+C:\Users\emred\source\repos\PhoneProje\PhoneProje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\emred\source\repos\PhoneProje\PhoneProje\obj\Debug\PhoneProje.csproj.AssemblyReference.cache
+C:\Users\emred\source\repos\PhoneProje\PhoneProje\obj\Debug\PhoneProje.Form1.resources
+C:\Users\emred\source\repos\PhoneProje\PhoneProje\obj\Debug\PhoneProje.Properties.Resources.resources
+C:\Users\emred\source\repos\PhoneProje\PhoneProje\obj\Debug\PhoneProje.csproj.GenerateResource.cache
+C:\Users\emred\source\repos\PhoneProje\PhoneProje\obj\Debug\PhoneProje.csproj.CoreCompileInputs.cache
+C:\Users\emred\source\repos\PhoneProje\PhoneProje\obj\Debug\PhoneProje.csproj.CopyComplete
+C:\Users\emred\source\repos\PhoneProje\PhoneProje\obj\Debug\PhoneProje.exe
+C:\Users\emred\source\repos\PhoneProje\PhoneProje\obj\Debug\PhoneProje.pdb
